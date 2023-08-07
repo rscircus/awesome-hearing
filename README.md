@@ -8,7 +8,7 @@
 
 > Collections of resources for better hearing and better hearing aids
 
-## Current Open-Source Hearing Aids & Projects
+## Open-Source Hearing Aids & Projects
 
 - [Open Master Hearing Aid](https://github.com/HoerTech-gGmbH/openMHA) by [HoerTech gGmbH](http://www.hoertech.de/)
 - [Toolbox for Acoustic Scene Creation & Rendering](https://github.com/HoerTech-gGmbH/tascar) by [HoerTech gGmbH](http://www.hoertech.de/)
