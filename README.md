@@ -10,6 +10,7 @@
 
 ## Open-Source Hearing Aids & Projects
 
+- [OpenEarable](https://open-earable.teco.edu/) OpenEarable is a new, open-source, Arduino-based platform for ear-based sensing applications.
 - [Open Master Hearing Aid](https://github.com/HoerTech-gGmbH/openMHA) by [HoerTech gGmbH](http://www.hoertech.de/)
 - [Toolbox for Acoustic Scene Creation & Rendering](https://github.com/HoerTech-gGmbH/tascar) by [HoerTech gGmbH](http://www.hoertech.de/)
 - [Hearing Aid Prototype (based on RPi3)](https://github.com/m-r-s/hearingaid-prototype) by [Marc René Schädler](https://vibrosonic.de)
