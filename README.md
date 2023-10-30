@@ -26,4 +26,4 @@
 
 ## Similar Lists
 
-- [https://github.com/KJSanchez/awesome-hearing-aid)(https://github.com/KJSanchez/awesome-hearing-aid)
+- [https://github.com/KJSanchez/awesome-hearing-aid](https://github.com/KJSanchez/awesome-hearing-aid)
