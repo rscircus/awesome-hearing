@@ -15,6 +15,7 @@
 - [Toolbox for Acoustic Scene Creation & Rendering](https://github.com/HoerTech-gGmbH/tascar) by [HoerTech gGmbH](http://www.hoertech.de/)
 - [Hearing Aid Prototype (based on RPi3)](https://github.com/m-r-s/hearingaid-prototype) by [Marc René Schädler](https://vibrosonic.de)
 - [Adaptive steerable beamformer Hearing Aid](https://github.com/Jk4818/openMHA-HA-System) by [Jason Keung](http://jkeung.tech/)
+- [SoundVisualizer](https://github.com/SOVIS-TEAM/SoundVisualizer-Android) Android and Windows app that shows the direction, loudness and type of the sounds a device plays as a glow along the screen edges, for deaf and hard-of-hearing people. By [SOVIS](https://sovis-team.github.io/en/)
 
 ## Current Conferences
 
